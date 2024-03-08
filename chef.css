@@ -1,0 +1,21 @@
+.text-center .section-title{
+    color: #FEA116;
+    font-family: 'Pacifico';
+}
+.container-xxl ul li h6{
+    text-decoration: none;
+}
+.container-xxl .container.tab-class ul li a i{
+    color: #FEA116;
+}
+a[href="new.html"]{
+    text-decoration: none;
+    position: absolute;
+    left: 34.375rem;
+    top: 12.5rem;
+    color: white;
+    font-size: large;
+}
+a[href="new.html"]:hover{
+    color:#FEA116;;
+}

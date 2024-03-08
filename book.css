@@ -1,0 +1,14 @@
+.table img{
+    width: 40.625rem;
+    height: 28.125rem;
+    position: relative;
+    top: 14.063rem;
+    z-index: 1;
+    
+    
+}
+.table .container-xxl{
+    position: absolute;
+    top: 34.375rem;
+    margin: 0;
+}
