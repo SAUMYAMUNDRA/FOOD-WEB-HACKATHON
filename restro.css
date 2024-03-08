@@ -1,0 +1,82 @@
+main .cardes img{
+    width: 550px;
+    border: none;
+    height: 350px;
+    border-radius: 10px;
+    margin: 30px 20px 20px 80px;
+}
+main .cardes{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    align-items: flex-start;
+    
+    margin-top: 40px;
+}
+body{
+    height: 2000px;
+}
+.cont1 .card {
+    position: absolute;
+    left: 590px;
+    bottom: 1px;
+    top: 500px;
+    z-index: 1;
+}
+.cont1{
+    z-index: 1;
+}
+.cont2 .card {
+    position: absolute;
+    left: 590px;
+    bottom: 1px;
+    top: 900px;
+    z-index: 1;
+}
+.cont3 .card {
+    position: absolute;
+    left: 590px;
+    bottom: 1px;
+    top: 1300px;
+    z-index: 1;
+}
+.cont4 .card {
+    position: absolute;
+    left: 590px;
+    bottom: 1px;
+    top: 1700px;
+    z-index: 1;
+}
+.cont5 .card {
+    position: absolute;
+    left: 590px;
+    bottom: 1px;
+    top: 2100px;
+    z-index: 1;
+}
+.btn1 .btn{
+position: absolute;
+left: 400px;
+background-color: red;
+}
+.btn2 .btn{
+    position: absolute;
+    left: 400px;
+    background-color: red;
+    }
+.btn3 .btn{
+position: absolute;
+left: 400px;
+background-color: red;
+}
+.btn4 .btn{
+ position: absolute;
+ left: 400px;
+background-color: red;
+}
+.btn5 .btn{
+ position: absolute;
+left: 400px;
+background-color: red;
+}
+ 
